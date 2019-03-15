@@ -39,12 +39,12 @@ Links and tutorials for presentation at CUNY
   * Video: https://www.youtube.com/watch?v=bYtVaQxJ994 
   * Demo: https://language-translator-demo.mybluemix.net/?cm_mc_uid=36152158407015012554435&cm_mc_sid_50200000=1509816451&cm_mc_sid_52640000=1509816451
  
-  * 3. Complete  Watson Visual Recognition Tutorial 1: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69 - 35 mins 
+  * 2. Complete  Watson Visual Recognition Tutorial 1: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69 - 35 mins 
 
-  * 4. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf - 40 mins 
+  * 3. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf - 40 mins 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
   
-  * 5. Train your Visual Recognition Classifier with Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
+  * 4. Train your Visual Recognition Classifier with Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
 
 ## Code Patterns and recipes for demos 
 
