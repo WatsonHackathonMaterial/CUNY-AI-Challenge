@@ -16,7 +16,7 @@ Links and tutorials for presentation at CUNY
 * Sign up for IBM Cloud
   * 1. IBM Cloud Account set up - Sign up for IBM Cloud here: http://bluemix.net/ - 10 mins - Helen Lam
 
-  * Overview of Watson Cloud APIs 
+## Overview of Watson Cloud APIs 
 * Visual Recognition
   * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
   * Demo: https://visual-recognition-demo.mybluemix.net/
