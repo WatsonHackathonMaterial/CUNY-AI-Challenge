@@ -1,5 +1,5 @@
 # CUNY-AI-Challenge Workshop 
-Links and tutorials for presentation at CUNY 
+Links and tutorials for presentation at CUNY. 
 
 ## Purpose of Lab
 
