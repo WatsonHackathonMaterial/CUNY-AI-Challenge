@@ -9,12 +9,7 @@ Links and tutorials for presentation at CUNY
 
 ## Sign up for IBM Cloud
 
-* Sign up here: www.bluemix.net
-
-## Agenda of links:  
- 
-* Sign up for IBM Cloud
-  * 1. IBM Cloud Account set up - Sign up for IBM Cloud here: http://bluemix.net/ - 10 mins - Helen Lam
+* Sign up here: www.bluemix.net 
 
 ## Overview of Watson Cloud APIs 
 * Visual Recognition
@@ -38,13 +33,15 @@ Links and tutorials for presentation at CUNY
 * Watson Natural Language Translator 
   * Video: https://www.youtube.com/watch?v=bYtVaQxJ994 
   * Demo: https://language-translator-demo.mybluemix.net/?cm_mc_uid=36152158407015012554435&cm_mc_sid_50200000=1509816451&cm_mc_sid_52640000=1509816451
+  
+  ## Hands-on Labs
  
-  * 2. Complete  Watson Visual Recognition Tutorial 1: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69 - 35 mins 
+  * 1. Complete  Watson Visual Recognition Tutorial 1: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69 - 35 mins 
 
-  * 3. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf - 40 mins 
+  * 2. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf - 40 mins 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
   
-  * 4. Train your Visual Recognition Classifier with Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
+  * 3. Train your Visual Recognition Classifier with Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
 
 ## Code Patterns and recipes for demos 
 
