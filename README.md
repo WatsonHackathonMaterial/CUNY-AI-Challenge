@@ -1,4 +1,4 @@
-# CUNY-AI-Challenge Workshop 
+# CUNY IBM Social Impact Challenge 
 Links and tutorials for presentation at CUNY. 
 
 ## Purpose of Lab
@@ -56,3 +56,12 @@ Links and tutorials for presentation at CUNY.
 
 * Helen Lam | helen.lam@ibm.com | @helennnsays
 * Nick Bourdakos | @bourdakos1 
+
+## Call for Code Submissions
+
+https://callforcode.org/
+
+100,000 developers from 156 nations accepted the challenge and built over 2,500 applications in 2018.
+Over 60 organizations amplified the Call as supporters last year.
+
+Will you answer the call in 2019?
